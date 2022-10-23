@@ -1,5 +1,22 @@
 ## Olá, prazer, me chamo Thomas
 
+
+    .-'''-.                                                                          
+   '   _    \                                                                        
+ /   /` '.   \         .                           __  __   ___                      
+.   |     \  '       .'|                          |  |/  `.'   `.                    
+|   '      |  '  .| <  |            .-''` ''-.    |   .-.  .-.   '                   
+\    \     / / .' |_ | |          .'          '.  |  |  |  |  |  | ____     _____    
+ `.   ` ..' /.'     || | .'''-.  /              ` |  |  |  |  |  |`.   \  .'    /    
+    '-...-'`'--.  .-'| |/.'''. \'                '|  |  |  |  |  |  `.  `'    .'     
+               |  |  |  /    | ||         .-.    ||  |  |  |  |  |    '.    .'       
+               |  |  | |     | |.        |   |   .|__|  |__|  |__|    .'     `.      
+               |  '.'| |     | | .       '._.'  /                   .'  .'`.   `.    
+               |   / | '.    | '. '._         .'                  .'   /    `.   `.  
+               `'-'  '---'   '---'   '-....-'`                   '----'       '----' 
+
+                                                  
+
 Atualmente cursando ensino superior em Segurança da Informação, mas também me dedico autonomamente a estudar muitos assuntos desde hacking e vulnerabilidades propriamente dito, como também linux, redes, linguagens de programação, etc.
 
 - Tenho 19 anos 😊
