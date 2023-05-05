@@ -14,7 +14,7 @@
                                                 
 Atualmente cursando ensino superior em Segurança da Informação, mas também me dedico autonomamente a estudar muitos assuntos desde hacking e vulnerabilidades propriamente dito, como também linux, redes, linguagens de programação, etc.
 
-- Tenho 19 anos 😊
+- Tenho 20 anos 😊
 - Procuro contribuir para a segurança digital como um todo 💻
 - Interessado no OpenSource, e na Segurança Cibernetica
 - Não me limito a segurança, me envolvo com desenvolvimento e tambem hardware.
